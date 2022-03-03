@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Microsoft technologies
+- 🌱 I’m currently learning Cloud
+- 👯 I’m looking to collaborate on everything I can
+
+Thank you!
 <!--
 **haiderimrans/haiderimrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
