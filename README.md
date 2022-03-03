@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on everything I can
 
-Thank you!
+Thank you for visiting!
 <!--
 **haiderimrans/haiderimrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
